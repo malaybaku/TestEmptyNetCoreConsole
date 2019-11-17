@@ -19,3 +19,7 @@
 このexeファイルはいわゆる自己完結型(Self-Contained)であるため、.NET Core 3.0が未インストールの環境に持ち込んでも動作するはずです。
 
 正常に動作すればビルド成功です。
+
+## License
+
+Public Domain
